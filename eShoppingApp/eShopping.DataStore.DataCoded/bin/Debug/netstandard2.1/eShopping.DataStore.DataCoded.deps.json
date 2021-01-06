@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETStandard,Version=v2.1/",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETStandard,Version=v2.1": {},
+    ".NETStandard,Version=v2.1/": {
+      "eShopping.DataStore.DataCoded/1.0.0": {
+        "dependencies": {
+          "eShopping.UseCase": "1.0.0"
+        },
+        "runtime": {
+          "eShopping.DataStore.DataCoded.dll": {}
+        }
+      },
+      "eShopping.Business/1.0.0": {
+        "runtime": {
+          "eShopping.Business.dll": {}
+        }
+      },
+      "eShopping.UseCase/1.0.0": {
+        "dependencies": {
+          "eShopping.Business": "1.0.0"
+        },
+        "runtime": {
+          "eShopping.UseCase.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "eShopping.DataStore.DataCoded/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "eShopping.Business/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "eShopping.UseCase/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,43 @@
+﻿<Properties StartupConfiguration="{015BE2F5-A7A7-4BA2-A5E1-C0AF25C910B8}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="eShoppingApp/Pages/Index.razor">
+    <Files>
+      <File FileName="eShoppingApp/Components/ProductItemComponent.razor" Line="10" Column="30" IsPinned="True" />
+      <File FileName="eShoppingApp/Components/ViewProductComponent.razor" Line="7" Column="40" />
+      <File FileName="eShopping.UseCase/SearchProductScreen/ViewProduct.cs" Line="15" Column="1" />
+      <File FileName="eShopping.UseCase/SearchProductScreen/IViewProduct.cs" Line="7" Column="6" />
+      <File FileName="eShoppingApp/Shared/NavMenu.razor" Line="24" Column="16" />
+      <File FileName="eShoppingApp/Components/SearchBarComponent.razor" Line="5" Column="71" />
+      <File FileName="eShoppingApp/Pages/_Host.cshtml" Line="1" Column="1" />
+      <File FileName="eShoppingApp/Pages/Index.razor" Line="8" Column="60" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="eShoppingApp" expanded="True">
+            <Node name="eShoppingApp" expanded="True">
+              <Node name="Components" expanded="True" />
+              <Node name="Pages" expanded="True">
+                <Node name="Index.razor" selected="True" />
+              </Node>
+              <Node name="Shared" expanded="True" />
+              <Node name="wwwroot" expanded="True">
+                <Node name="css" expanded="True">
+                  <Node name="bootstrap" expanded="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.eShoppingApp PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/owamamwen/Projects/eShoppingApp/eShoppingApp/eShoppingApp.csproj" relfile="eShoppingApp/eShoppingApp.csproj" line="1" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

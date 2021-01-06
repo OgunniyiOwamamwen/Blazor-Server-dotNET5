@@ -1,0 +1,11 @@
+/Users/owamamwen/Projects/eShoppingApp/eShopping.UseCase/bin/Debug/netstandard2.1/eShopping.UseCase.deps.json
+/Users/owamamwen/Projects/eShoppingApp/eShopping.UseCase/bin/Debug/netstandard2.1/eShopping.UseCase.dll
+/Users/owamamwen/Projects/eShoppingApp/eShopping.UseCase/bin/Debug/netstandard2.1/eShopping.UseCase.pdb
+/Users/owamamwen/Projects/eShoppingApp/eShopping.UseCase/bin/Debug/netstandard2.1/eShopping.Business.dll
+/Users/owamamwen/Projects/eShoppingApp/eShopping.UseCase/bin/Debug/netstandard2.1/eShopping.Business.pdb
+/Users/owamamwen/Projects/eShoppingApp/eShopping.UseCase/obj/Debug/netstandard2.1/eShopping.UseCase.AssemblyInfoInputs.cache
+/Users/owamamwen/Projects/eShoppingApp/eShopping.UseCase/obj/Debug/netstandard2.1/eShopping.UseCase.AssemblyInfo.cs
+/Users/owamamwen/Projects/eShoppingApp/eShopping.UseCase/obj/Debug/netstandard2.1/eShopping.UseCase.csproj.CoreCompileInputs.cache
+/Users/owamamwen/Projects/eShoppingApp/eShopping.UseCase/obj/Debug/netstandard2.1/eShopping.UseCase.csproj.CopyComplete
+/Users/owamamwen/Projects/eShoppingApp/eShopping.UseCase/obj/Debug/netstandard2.1/eShopping.UseCase.dll
+/Users/owamamwen/Projects/eShoppingApp/eShopping.UseCase/obj/Debug/netstandard2.1/eShopping.UseCase.pdb

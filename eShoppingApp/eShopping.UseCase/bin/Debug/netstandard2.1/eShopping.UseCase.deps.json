@@ -1,0 +1,37 @@
+{
+  "runtimeTarget": {
+    "name": ".NETStandard,Version=v2.1/",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETStandard,Version=v2.1": {},
+    ".NETStandard,Version=v2.1/": {
+      "eShopping.UseCase/1.0.0": {
+        "dependencies": {
+          "eShopping.Business": "1.0.0"
+        },
+        "runtime": {
+          "eShopping.UseCase.dll": {}
+        }
+      },
+      "eShopping.Business/1.0.0": {
+        "runtime": {
+          "eShopping.Business.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "eShopping.UseCase/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "eShopping.Business/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

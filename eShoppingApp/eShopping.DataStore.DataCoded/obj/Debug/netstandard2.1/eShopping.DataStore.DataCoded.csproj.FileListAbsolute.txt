@@ -1,0 +1,13 @@
+/Users/owamamwen/Projects/eShoppingApp/eShopping.DataStore.DataCoded/bin/Debug/netstandard2.1/eShopping.DataStore.DataCoded.deps.json
+/Users/owamamwen/Projects/eShoppingApp/eShopping.DataStore.DataCoded/bin/Debug/netstandard2.1/eShopping.DataStore.DataCoded.dll
+/Users/owamamwen/Projects/eShoppingApp/eShopping.DataStore.DataCoded/bin/Debug/netstandard2.1/eShopping.DataStore.DataCoded.pdb
+/Users/owamamwen/Projects/eShoppingApp/eShopping.DataStore.DataCoded/bin/Debug/netstandard2.1/eShopping.Business.dll
+/Users/owamamwen/Projects/eShoppingApp/eShopping.DataStore.DataCoded/bin/Debug/netstandard2.1/eShopping.UseCase.dll
+/Users/owamamwen/Projects/eShoppingApp/eShopping.DataStore.DataCoded/bin/Debug/netstandard2.1/eShopping.UseCase.pdb
+/Users/owamamwen/Projects/eShoppingApp/eShopping.DataStore.DataCoded/bin/Debug/netstandard2.1/eShopping.Business.pdb
+/Users/owamamwen/Projects/eShoppingApp/eShopping.DataStore.DataCoded/obj/Debug/netstandard2.1/eShopping.DataStore.DataCoded.AssemblyInfoInputs.cache
+/Users/owamamwen/Projects/eShoppingApp/eShopping.DataStore.DataCoded/obj/Debug/netstandard2.1/eShopping.DataStore.DataCoded.AssemblyInfo.cs
+/Users/owamamwen/Projects/eShoppingApp/eShopping.DataStore.DataCoded/obj/Debug/netstandard2.1/eShopping.DataStore.DataCoded.csproj.CoreCompileInputs.cache
+/Users/owamamwen/Projects/eShoppingApp/eShopping.DataStore.DataCoded/obj/Debug/netstandard2.1/eShopping.DataStore.DataCoded.csproj.CopyComplete
+/Users/owamamwen/Projects/eShoppingApp/eShopping.DataStore.DataCoded/obj/Debug/netstandard2.1/eShopping.DataStore.DataCoded.dll
+/Users/owamamwen/Projects/eShoppingApp/eShopping.DataStore.DataCoded/obj/Debug/netstandard2.1/eShopping.DataStore.DataCoded.pdb

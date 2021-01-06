@@ -1,0 +1,18 @@
+﻿@if (this._prod != null)
+{
+    <tr>
+        <td>
+            <NavLink href="@($"product/{_prod.Id}")">
+                @_prod.Name
+            </NavLink>
+        </td>
+        <td>@_prod.Brand</td>
+        <td>@_prod.Price</td>
+    </tr>
+}
+
+
+@code {
+    [Parameter]
+    public Product _prod { get; set; }
+}

@@ -1,0 +1,9 @@
+/Users/owamamwen/Projects/eShoppingApp/eShopping.Business/bin/Debug/netstandard2.1/eShopping.Business.deps.json
+/Users/owamamwen/Projects/eShoppingApp/eShopping.Business/bin/Debug/netstandard2.1/eShopping.Business.dll
+/Users/owamamwen/Projects/eShoppingApp/eShopping.Business/bin/Debug/netstandard2.1/eShopping.Business.pdb
+/Users/owamamwen/Projects/eShoppingApp/eShopping.Business/obj/Debug/netstandard2.1/eShopping.Business.csprojAssemblyReference.cache
+/Users/owamamwen/Projects/eShoppingApp/eShopping.Business/obj/Debug/netstandard2.1/eShopping.Business.AssemblyInfoInputs.cache
+/Users/owamamwen/Projects/eShoppingApp/eShopping.Business/obj/Debug/netstandard2.1/eShopping.Business.AssemblyInfo.cs
+/Users/owamamwen/Projects/eShoppingApp/eShopping.Business/obj/Debug/netstandard2.1/eShopping.Business.csproj.CoreCompileInputs.cache
+/Users/owamamwen/Projects/eShoppingApp/eShopping.Business/obj/Debug/netstandard2.1/eShopping.Business.dll
+/Users/owamamwen/Projects/eShoppingApp/eShopping.Business/obj/Debug/netstandard2.1/eShopping.Business.pdb
